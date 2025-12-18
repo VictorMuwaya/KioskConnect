@@ -1,0 +1,7 @@
+{
+  "name": "KioskConnect",
+  "description": "A B2B bulk inventory pooling platform for micro-retailers to collectively purchase goods at wholesale prices and coordinate drop points.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
