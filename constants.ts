@@ -10,7 +10,7 @@ export const MOCK_PRODUCTS: Product[] = [
     retailPrice: 15.50,
     wholesalePrice: 11.20,
     minWholesaleQty: 50,
-    imageUrl: 'https://picsum.photos/seed/flour/400/300'
+    imageUrl: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=800&auto=format&fit=crop'
   },
   {
     id: 'p2',
@@ -20,7 +20,7 @@ export const MOCK_PRODUCTS: Product[] = [
     retailPrice: 42.00,
     wholesalePrice: 34.50,
     minWholesaleQty: 20,
-    imageUrl: 'https://picsum.photos/seed/oil/400/300'
+    imageUrl: 'https://images.unsplash.com/photo-1474979266404-7eaacabc88c5?q=80&w=800&auto=format&fit=crop'
   },
   {
     id: 'p3',
@@ -30,7 +30,7 @@ export const MOCK_PRODUCTS: Product[] = [
     retailPrice: 8.90,
     wholesalePrice: 6.40,
     minWholesaleQty: 30,
-    imageUrl: 'https://picsum.photos/seed/soap/400/300'
+    imageUrl: 'https://images.unsplash.com/photo-1584622781564-1d9876a13d00?q=80&w=800&auto=format&fit=crop'
   },
   {
     id: 'p4',
@@ -40,7 +40,7 @@ export const MOCK_PRODUCTS: Product[] = [
     retailPrice: 28.00,
     wholesalePrice: 22.10,
     minWholesaleQty: 40,
-    imageUrl: 'https://picsum.photos/seed/rice/400/300'
+    imageUrl: 'https://images.unsplash.com/photo-1516684732162-798a0062be99?q=80&w=800&auto=format&fit=crop'
   }
 ];
 
